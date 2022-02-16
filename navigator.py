@@ -6,8 +6,8 @@ import sys
 import readline
 
 ''' The goal of this program is to simplify the navigation of the Linux filesystem within Terminal. '''
-__author__ = "Orange_Joe"
-__copyright__ = "Orange_Joe"
+__author__ = "0range-j0e"
+__copyright__ = "0range-j0e"
 __version__ =  "1.0"
 
 
